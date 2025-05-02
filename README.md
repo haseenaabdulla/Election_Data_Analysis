@@ -1,20 +1,20 @@
 ## Election_Data_Analysis
 Project for Data Science & Machine Learning course using Election data.
 
-## 📁 Project Overview
+## Project Overview
 
 This project performs a comprehensive analysis of **Election Data** using Python. The goal is to explore trends, visualize voting patterns, and apply machine learning techniques to gain insights from historical election datasets.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-- Python 🐍
-- Jupyter Notebook 📓
+- Python 
+- Jupyter Notebook 
 - Pandas
 - NumPy
 - Matplotlib & Seaborn
 - Scikit-learn
 
-## 📌 Objectives
+## Objectives
 
 - Load and clean election data
 - Perform exploratory data analysis (EDA)
@@ -22,11 +22,11 @@ This project performs a comprehensive analysis of **Election Data** using Python
 - Build machine learning models for prediction
 - Evaluate model performance
 
-## 📂 Files
+## Files
 
 - `Project.ipynb` – Main Jupyter notebook with the complete analysis
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
